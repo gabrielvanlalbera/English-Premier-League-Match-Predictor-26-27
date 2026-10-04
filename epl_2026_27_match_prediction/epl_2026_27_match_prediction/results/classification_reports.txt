@@ -1,0 +1,21 @@
+PRE-MATCH XGBOOST
+              precision    recall  f1-score   support
+
+           A       0.55      0.52      0.54       132
+           D       0.00      0.00      0.00        93
+           H       0.51      0.84      0.63       155
+
+    accuracy                           0.52       380
+   macro avg       0.35      0.45      0.39       380
+weighted avg       0.40      0.52      0.45       380
+
+IN-MATCH XGBOOST
+              precision    recall  f1-score   support
+
+           A       0.72      0.69      0.71       118
+           D       0.40      0.24      0.30        88
+           H       0.68      0.87      0.76       144
+
+    accuracy                           0.65       350
+   macro avg       0.60      0.60      0.59       350
+weighted avg       0.62      0.65      0.63       350
